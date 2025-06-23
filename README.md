@@ -7,7 +7,7 @@ Me chamo Daniele Scheibler, sou UX/UI Designer com formação em Ciências Biol�
 Meus projetos de Designer Gráfico e Edição de vídeos & Motion estão neste Portfolio: [danielescheibler.myportfolio.com](https://danielescheibler.myportfolio.com)
 
 <p align="left">
-    <a href="[https://danielescheibler.myportfolio.com](https://danielescheibler.github.io/portfolio/)" target="_blank">
+    <a href="https://danielescheibler.myportfolio.com](https://danielescheibler.github.io/portfolio/" target="_blank">
         <img 
             alt="Portfólio" 
             title="Veja meu portfólio" 
