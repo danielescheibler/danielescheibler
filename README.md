@@ -2,9 +2,17 @@
 
 **`Designer Gráfico e UX/UI Designer`**
 
-Me chamo Daniele Scheibler, sou UX/UI Designer com formação em Ciências Biológicas e background em design gráfico, edição de vídeos e motion design. Natural do Rio Grande do Sul, iniciei minha trajetória acadêmica pela ciência, mas encontrei nas artes visuais minha verdadeira paixão. Hoje atuo como profissional autônoma criando identidades visuais, conteúdos digitais e experiências centradas no usuário. Compartilho meus projetos e portfólio [aqui](https://danielescheibler.github.io/portfolio/), com foco em transformar criatividade em soluções visuais funcionais e impactantes.
-<br><br>
-Meus projetos de Designer Gráfico e Edição de vídeos & Motion estão [neste Portfolio aqui.](https://scheiblerdani.wixsite.com/portfoliodesigner)
+<p>
+Me chamo Daniele Scheibler, sou UX/UI Designer com formação em Ciências Biológicas e background em design gráfico, edição de vídeos e motion design. Natural do Rio Grande do Sul, iniciei minha trajetória acadêmica pela ciência, mas encontrei nas artes visuais minha verdadeira paixão. Hoje atuo como profissional autônoma criando experiências digitais centradas no usuário, interfaces funcionais e soluções visuais estratégicas. Meu portfólio de UX/UI Design está disponível 
+<a href="https://danielescheibler.github.io/portfolio/" target="_blank">aqui</a>.
+</p>
+
+<br>
+
+<p>
+Também atuo com design gráfico, edição de vídeos e motion design, desenvolvendo identidades visuais, conteúdos para redes sociais e materiais audiovisuais. Esses projetos podem ser vistos 
+<a href="https://scheiblerdani.wixsite.com/portfoliodesigner" target="_blank">neste portfólio</a>.
+</p>
 
 <p align="left">
     <a href="https://danielescheibler.github.io/portfolio/" target="_blank">
