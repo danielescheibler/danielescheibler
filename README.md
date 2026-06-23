@@ -7,22 +7,26 @@ Designer with experience in graphic design, UX/UI, and digital content creation,
 </p>
 
 <p>
-Currently focused on UX and Product Design through studies in Systems Analysis and Development and certifications in Google UX Design and Google Data Analytics. Interested in Product Design, UX Research, and related areas, aiming to build functional, accessible, and data-driven digital experiences.
+Currently pursuing a degree in Systems Analysis and Development while expanding my expertise in UX and Product Design through Google UX Design and Google Data Analytics certifications.
 </p>
 
 <p>
-Tools include Figma, Photoshop, Illustrator, Premiere, After Effects, and basic knowledge of HTML, CSS, and JavaScript.
+Interested in Product Design, UX Research, and related areas, aiming to build functional, accessible, and data-driven digital experiences.
 </p>
 
 <p>
-🔗 UX/UI Portfolio:
+Tools include Figma, Photoshop, Illustrator, Premiere, After Effects, and working knowledge of HTML, CSS, and JavaScript.
+</p>
+
+<p>
+🔗 UX/UI Portfolio:<br>
 <a href="https://danielescheibler.github.io/portfolio/" target="_blank">
 danielescheibler.github.io/portfolio
 </a>
 </p>
 
 <p>
-🎨 Graphic Design & Creative Portfolio:
+🎨 Graphic Design & Creative Portfolio:<br>
 <a href="https://scheiblerdani.wixsite.com/portfoliodesigner" target="_blank">
 Creative Portfolio
 </a>
