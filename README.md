@@ -1,25 +1,34 @@
-<h1>👩🏻‍🎨 Daniele Scheibler</h1>
+<h1>👩🏻‍💻 Daniele Scheibler</h1>
 
-<h3>Designer UX/UI • Design Gráfico • Motion Design • Edição de Vídeos</h3>
+<h3>Product Design • UX/UI Design • UX Research</h3>
 
 <p>
-Sou Designer UX/UI com formação em Ciências Biológicas e atualmente curso Tecnologia em Design Gráfico. Minha experiência em design gráfico, motion design e produção audiovisual me permite criar soluções visuais que unem estética, funcionalidade e comunicação.
+Designer with experience in graphic design, UX/UI, and digital content creation, working as a freelancer since 2023. I collaborate directly with clients to understand needs, manage requests, and develop visual and product-oriented solutions.
 </p>
 
 <p>
-Atuo como profissional autônoma, desenvolvendo experiências digitais centradas no usuário, interfaces intuitivas e identidades visuais estratégicas. Também possuo conhecimentos em HTML, CSS, JavaScript e SQL, aplicados em projetos pessoais e no desenvolvimento de interfaces.
+Currently focused on UX and Product Design through studies in Systems Analysis and Development and certifications in Google UX Design and Google Data Analytics. Interested in Product Design, UX Research, and related areas, aiming to build functional, accessible, and data-driven digital experiences.
 </p>
 
 <p>
-🔗 Conheça meu portfólio de UX/UI:
+Tools include Figma, Photoshop, Illustrator, Premiere, After Effects, and basic knowledge of HTML, CSS, and JavaScript.
+</p>
+
+<p>
+🔗 UX/UI Portfolio:
 <a href="https://danielescheibler.github.io/portfolio/" target="_blank">
 danielescheibler.github.io/portfolio
 </a>
 </p>
 
 <p>
-🎨 Projetos de Design Gráfico, Motion Design e Audiovisual:
+🎨 Graphic Design & Creative Portfolio:
 <a href="https://scheiblerdani.wixsite.com/portfoliodesigner" target="_blank">
-Portfólio Criativo
+Creative Portfolio
 </a>
+</p>
+
+<p>
+🇧🇷 Portuguese • Native<br>
+🇺🇸 English • Advanced
 </p>
